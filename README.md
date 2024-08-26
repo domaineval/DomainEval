@@ -46,6 +46,7 @@ nohup python -u datagenerate.py \
 The final data is in `domaineval_{your version}`.
 The data is in the format of json, each line is a json object, the format is:
 ```json
+{
     "method_name":,
     "full_method_name":,
     "method_path":,
@@ -56,6 +57,7 @@ The data is in the format of json, each line is a json object, the format is:
     ],
     "instruction":,
     "method_code_mask":,
+}
 ```
 
 ## Evaluation
