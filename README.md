@@ -51,7 +51,7 @@ The data is in the format of json, each line is a json object, the format is:
     "method_path":,
     "method_code":,
     "test_code_list":[
-        {"test_code":, "code_start":, "test_path":, },
+        {"test_code":, "code_start":, "test_path":,},
     ],
     "instruction":,
     "method_code_mask":,
