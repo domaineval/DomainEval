@@ -73,7 +73,7 @@ if __name__ == "__main__":
             
             repo_all = 0
             repo_acc = 0
-            # repeat_K == args.k_pass
+            # when repeat_K == args.k_pass
             for i in range(0, len(data_list), repeat_K):
                 one_data_group = data_list[i:i + args.k_pass]
                 pass_flag = False

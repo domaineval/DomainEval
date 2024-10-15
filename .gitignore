@@ -9,3 +9,5 @@ nohup*
 .bash*
 .config*
 .ipython*
+/result_*.txt
+/log*
