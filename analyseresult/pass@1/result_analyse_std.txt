@@ -1,0 +1,125 @@
+Result Directory: executeresult/domaineval_20240711/std/pass_1
+Model: std
+Time:  2024-10-15 11:19:16
+
+Analyse topic: Basic
+Basic/chinese-calendar pass@1 = 9 / 9 = 100.00%
+Basic/arrow pass@1 = 2 / 2 = 100.00%
+Basic/Python pass@1 = 17 / 17 = 100.00%
+Basic/khal pass@1 = 11 / 11 = 100.00%
+Basic/faker pass@1 = 6 / 6 = 100.00%
+Basic/prettytable pass@1 = 2 / 2 = 100.00%
+Basic/charset_normalizer pass@1 = 1 / 1 = 100.00%
+Basic/workalendar pass@1 = 1 / 1 = 100.00%
+Basic/setuptools pass@1 = 3 / 3 = 100.00%
+Basic/xarray pass@1 = 47 / 47 = 100.00%
+Basic/python-holidays pass@1 = 3 / 3 = 100.00%
+Basic/vdirsyncer pass@1 = 5 / 5 = 100.00%
+Basic pass@1 = 107 / 107 = 100.00%
+
+Analyse topic: Network
+Network/requests pass@1 = 1 / 1 = 100.00%
+Network/mitmproxy pass@1 = 26 / 26 = 100.00%
+Network/yt-dlp pass@1 = 56 / 56 = 100.00%
+Network/django pass@1 = 138 / 138 = 100.00%
+Network/mechanize pass@1 = 17 / 17 = 100.00%
+Network/wtforms pass@1 = 2 / 2 = 100.00%
+Network/scrapy pass@1 = 7 / 7 = 100.00%
+Network/flask-restful pass@1 = 4 / 4 = 100.00%
+Network/sendgrid-python pass@1 = 3 / 3 = 100.00%
+Network/geopy pass@1 = 1 / 1 = 100.00%
+Network/werkzeug pass@1 = 1 / 1 = 100.00%
+Network pass@1 = 256 / 256 = 100.00%
+
+Analyse topic: Computation
+Computation/geopandas pass@1 = 14 / 14 = 100.00%
+Computation/statsmodels pass@1 = 185 / 186 = 99.46%
+Computation/shapely pass@1 = 27 / 27 = 100.00%
+Computation/tensorflow pass@1 = 2 / 2 = 100.00%
+Computation/sympy pass@1 = 1084 / 1084 = 100.00%
+Computation/gpt-engineer pass@1 = 1 / 1 = 100.00%
+Computation/numpy pass@1 = 105 / 105 = 100.00%
+Computation/scikit-image pass@1 = 72 / 72 = 100.00%
+Computation/pandas pass@1 = 77 / 77 = 100.00%
+Computation/ipython pass@1 = 28 / 28 = 100.00%
+Computation/gensim pass@1 = 21 / 21 = 100.00%
+Computation/librosa pass@1 = 1 / 1 = 100.00%
+Computation/scikit-learn pass@1 = 1 / 1 = 100.00%
+Computation/obspy pass@1 = 77 / 77 = 100.00%
+Computation/nltk pass@1 = 9 / 9 = 100.00%
+Computation pass@1 = 1704 / 1705 = 99.94%
+
+Analyse topic: Cryptography
+Cryptography/firmware pass@1 = 1 / 1 = 100.00%
+Cryptography/freqtrade pass@1 = 17 / 17 = 100.00%
+Cryptography/pyopenssl pass@1 = 4 / 4 = 100.00%
+Cryptography/python-rsa pass@1 = 11 / 11 = 100.00%
+Cryptography/paranoid_crypto pass@1 = 23 / 23 = 100.00%
+Cryptography/python-hdwallet pass@1 = 1 / 1 = 100.00%
+Cryptography/python-paillier pass@1 = 3 / 3 = 100.00%
+Cryptography/pyjks pass@1 = 1 / 1 = 100.00%
+Cryptography/blake3-py pass@1 = 1 / 1 = 100.00%
+Cryptography/crypto-attacks pass@1 = 3 / 3 = 100.00%
+Cryptography/badsecrets pass@1 = 1 / 1 = 100.00%
+Cryptography/mpyc pass@1 = 1 / 1 = 100.00%
+Cryptography/py pass@1 = 1 / 1 = 100.00%
+Cryptography/cryptography pass@1 = 10 / 10 = 100.00%
+Cryptography/nucypher pass@1 = 3 / 3 = 100.00%
+Cryptography/python-ecdsa pass@1 = 11 / 11 = 100.00%
+Cryptography/detect-secrets pass@1 = 2 / 2 = 100.00%
+Cryptography/pycryptodome pass@1 = 3 / 3 = 100.00%
+Cryptography/asn1crypto pass@1 = 3 / 3 = 100.00%
+Cryptography pass@1 = 100 / 100 = 100.00%
+
+Analyse topic: Visualization
+Visualization/seaborn pass@1 = 46 / 46 = 100.00%
+Visualization/rich pass@1 = 8 / 8 = 100.00%
+Visualization/vispy pass@1 = 24 / 24 = 100.00%
+Visualization/pygwalker pass@1 = 3 / 3 = 100.00%
+Visualization/datashader pass@1 = 17 / 17 = 100.00%
+Visualization/plotnine pass@1 = 5 / 5 = 100.00%
+Visualization/word_cloud pass@1 = 1 / 1 = 100.00%
+Visualization/folium pass@1 = 11 / 11 = 100.00%
+Visualization/gradio pass@1 = 14 / 14 = 100.00%
+Visualization/tensorboardX pass@1 = 3 / 3 = 100.00%
+Visualization/vaex pass@1 = 1 / 1 = 100.00%
+Visualization/altair pass@1 = 5 / 5 = 100.00%
+Visualization/pygal pass@1 = 10 / 10 = 100.00%
+Visualization/Pillow pass@1 = 4 / 4 = 100.00%
+Visualization/matplotlib pass@1 = 7 / 7 = 100.00%
+Visualization/bokeh pass@1 = 9 / 9 = 100.00%
+Visualization/plotly.py pass@1 = 7 / 7 = 100.00%
+Visualization/redash pass@1 = 11 / 11 = 100.00%
+Visualization pass@1 = 186 / 186 = 100.00%
+
+Analyse topic: System
+System/openpyxl pass@1 = 5 / 5 = 100.00%
+System/python-docx pass@1 = 2 / 2 = 100.00%
+System/SQLAlchemy-2.0.31 pass@1 = 1 / 1 = 100.00%
+System/pandapower pass@1 = 2 / 2 = 100.00%
+System/loguru pass@1 = 2 / 2 = 100.00%
+System/poetry pass@1 = 1 / 1 = 100.00%
+System/anaconda pass@1 = 19 / 19 = 100.00%
+System/sentry pass@1 = 2 / 2 = 100.00%
+System/xlwt pass@1 = 3 / 3 = 100.00%
+System/xlrd pass@1 = 3 / 3 = 100.00%
+System/billiard pass@1 = 2 / 2 = 100.00%
+System/core pass@1 = 36 / 36 = 100.00%
+System/thefuck pass@1 = 2 / 2 = 100.00%
+System/glances pass@1 = 2 / 2 = 100.00%
+System/psutil pass@1 = 13 / 13 = 100.00%
+System/mpire pass@1 = 5 / 5 = 100.00%
+System pass@1 = 100 / 100 = 100.00%
+
+Basic pass@1 = 107 / 107 = 100.00%
+Network pass@1 = 256 / 256 = 100.00%
+Computation pass@1 = 1704 / 1705 = 99.94%
+Cryptography pass@1 = 100 / 100 = 100.00%
+Visualization pass@1 = 186 / 186 = 100.00%
+System pass@1 = 100 / 100 = 100.00%
+Total pass@1 = 2453 / 2454 = 99.96%
+Average pass@1 = 99.99%
+100.00	100.00	99.94	100.00	100.00	100.00	99.96	99.99	
+
+passed: 2453
+timed out: 1

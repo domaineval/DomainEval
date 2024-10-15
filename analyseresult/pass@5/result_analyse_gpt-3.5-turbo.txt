@@ -1,0 +1,722 @@
+Result Directory: executeresult/domaineval_20240711/gpt-3.5-turbo/pass_5
+Model: gpt-3.5-turbo
+Time:  2024-10-15 13:31:36
+
+Analyse topic: Basic
+Basic/chinese-calendar pass@5 = 3 / 9 = 33.33%
+Basic/arrow pass@5 = 0 / 2 = 0.00%
+Basic/Python pass@5 = 9 / 17 = 52.94%
+Basic/khal pass@5 = 3 / 11 = 27.27%
+Basic/faker pass@5 = 6 / 6 = 100.00%
+Basic/prettytable pass@5 = 0 / 2 = 0.00%
+Basic/charset_normalizer pass@5 = 1 / 1 = 100.00%
+Basic/workalendar pass@5 = 1 / 1 = 100.00%
+Basic/setuptools pass@5 = 1 / 3 = 33.33%
+Basic/xarray pass@5 = 35 / 47 = 74.47%
+Basic/python-holidays pass@5 = 2 / 3 = 66.67%
+Basic/vdirsyncer pass@5 = 4 / 5 = 80.00%
+Basic pass@5 = 65 / 107 = 60.75%
+
+Analyse topic: Network
+Network/requests pass@5 = 0 / 1 = 0.00%
+Network/mitmproxy pass@5 = 9 / 26 = 34.62%
+Network/yt-dlp pass@5 = 16 / 56 = 28.57%
+Network/django pass@5 = 113 / 138 = 81.88%
+Network/mechanize pass@5 = 13 / 17 = 76.47%
+Network/wtforms pass@5 = 0 / 2 = 0.00%
+Network/scrapy pass@5 = 3 / 7 = 42.86%
+Network/flask-restful pass@5 = 3 / 4 = 75.00%
+Network/sendgrid-python pass@5 = 3 / 3 = 100.00%
+Network/geopy pass@5 = 1 / 1 = 100.00%
+Network/werkzeug pass@5 = 0 / 1 = 0.00%
+Network pass@5 = 161 / 256 = 62.89%
+
+Analyse topic: Computation
+Computation/geopandas pass@5 = 9 / 14 = 64.29%
+Computation/statsmodels pass@5 = 137 / 186 = 73.66%
+Computation/shapely pass@5 = 21 / 27 = 77.78%
+Computation/tensorflow pass@5 = 1 / 2 = 50.00%
+Computation/sympy pass@5 = 1026 / 1084 = 94.65%
+Computation/gpt-engineer pass@5 = 1 / 1 = 100.00%
+Computation/numpy pass@5 = 76 / 105 = 72.38%
+Computation/scikit-image pass@5 = 61 / 72 = 84.72%
+Computation/pandas pass@5 = 47 / 77 = 61.04%
+Computation/ipython pass@5 = 18 / 28 = 64.29%
+Computation/gensim pass@5 = 16 / 21 = 76.19%
+Computation/librosa pass@5 = 0 / 1 = 0.00%
+Computation/scikit-learn pass@5 = 0 / 1 = 0.00%
+Computation/obspy pass@5 = 67 / 77 = 87.01%
+Computation/nltk pass@5 = 8 / 9 = 88.89%
+Computation pass@5 = 1488 / 1705 = 87.27%
+
+Analyse topic: Cryptography
+Cryptography/firmware pass@5 = 0 / 1 = 0.00%
+Cryptography/freqtrade pass@5 = 8 / 17 = 47.06%
+Cryptography/pyopenssl pass@5 = 1 / 4 = 25.00%
+Cryptography/python-rsa pass@5 = 5 / 11 = 45.45%
+Cryptography/paranoid_crypto pass@5 = 6 / 23 = 26.09%
+Cryptography/python-hdwallet pass@5 = 0 / 1 = 0.00%
+Cryptography/python-paillier pass@5 = 2 / 3 = 66.67%
+Cryptography/pyjks pass@5 = 0 / 1 = 0.00%
+Cryptography/blake3-py pass@5 = 1 / 1 = 100.00%
+Cryptography/crypto-attacks pass@5 = 1 / 3 = 33.33%
+Cryptography/badsecrets pass@5 = 1 / 1 = 100.00%
+Cryptography/mpyc pass@5 = 0 / 1 = 0.00%
+Cryptography/py pass@5 = 1 / 1 = 100.00%
+Cryptography/cryptography pass@5 = 1 / 10 = 10.00%
+Cryptography/nucypher pass@5 = 1 / 3 = 33.33%
+Cryptography/python-ecdsa pass@5 = 2 / 11 = 18.18%
+Cryptography/detect-secrets pass@5 = 1 / 2 = 50.00%
+Cryptography/pycryptodome pass@5 = 3 / 3 = 100.00%
+Cryptography/asn1crypto pass@5 = 0 / 3 = 0.00%
+Cryptography pass@5 = 34 / 100 = 34.00%
+
+Analyse topic: Visualization
+Visualization/seaborn pass@5 = 26 / 46 = 56.52%
+Visualization/rich pass@5 = 4 / 8 = 50.00%
+Visualization/vispy pass@5 = 18 / 24 = 75.00%
+Visualization/pygwalker pass@5 = 1 / 3 = 33.33%
+Visualization/datashader pass@5 = 12 / 17 = 70.59%
+Visualization/plotnine pass@5 = 0 / 5 = 0.00%
+Visualization/word_cloud pass@5 = 1 / 1 = 100.00%
+Visualization/folium pass@5 = 7 / 11 = 63.64%
+Visualization/gradio pass@5 = 5 / 14 = 35.71%
+Visualization/tensorboardX pass@5 = 0 / 3 = 0.00%
+Visualization/vaex pass@5 = 0 / 1 = 0.00%
+Visualization/altair pass@5 = 1 / 5 = 20.00%
+Visualization/pygal pass@5 = 3 / 10 = 30.00%
+Visualization/Pillow pass@5 = 4 / 4 = 100.00%
+Visualization/matplotlib pass@5 = 4 / 7 = 57.14%
+Visualization/bokeh pass@5 = 6 / 9 = 66.67%
+Visualization/plotly.py pass@5 = 1 / 7 = 14.29%
+Visualization/redash pass@5 = 4 / 11 = 36.36%
+Visualization pass@5 = 97 / 186 = 52.15%
+
+Analyse topic: System
+System/openpyxl pass@5 = 2 / 5 = 40.00%
+System/python-docx pass@5 = 0 / 2 = 0.00%
+System/SQLAlchemy-2.0.31 pass@5 = 0 / 1 = 0.00%
+System/pandapower pass@5 = 1 / 2 = 50.00%
+System/loguru pass@5 = 1 / 2 = 50.00%
+System/poetry pass@5 = 1 / 1 = 100.00%
+System/anaconda pass@5 = 5 / 19 = 26.32%
+System/sentry pass@5 = 1 / 2 = 50.00%
+System/xlwt pass@5 = 3 / 3 = 100.00%
+System/xlrd pass@5 = 1 / 3 = 33.33%
+System/billiard pass@5 = 2 / 2 = 100.00%
+System/core pass@5 = 12 / 36 = 33.33%
+System/thefuck pass@5 = 1 / 2 = 50.00%
+System/glances pass@5 = 1 / 2 = 50.00%
+System/psutil pass@5 = 5 / 13 = 38.46%
+System/mpire pass@5 = 1 / 5 = 20.00%
+System pass@5 = 37 / 100 = 37.00%
+
+Basic pass@5 = 65 / 107 = 60.75%
+Network pass@5 = 161 / 256 = 62.89%
+Computation pass@5 = 1488 / 1705 = 87.27%
+Cryptography pass@5 = 34 / 100 = 34.00%
+Visualization pass@5 = 97 / 186 = 52.15%
+System pass@5 = 37 / 100 = 37.00%
+Total pass@5 = 1882 / 2454 = 76.69%
+Average pass@5 = 55.68%
+60.75	62.89	87.27	34.00	52.15	37.00	76.69	55.68	
+
+passed: 8988
+failed: AssertionError: 1025
+failed: name 'pytest' is not defined: 75
+No code found: 69
+failed: name 'np' is not defined: 29
+timed out: 23
+failed: unexpected indent (<string>, line 6): 22
+failed: not enough values to unpack (expected 2, got 1): 22
+failed: unexpected indent (<string>, line 8): 21
+failed: name 'UnexpectedDER' is not defined: 20
+failed: name 'contextmanager' is not defined: 16
+failed: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(): 15
+failed: unexpected indent (<string>, line 4): 15
+failed: name 'Symbol' is not defined: 15
+failed: list index out of range: 14
+failed: unexpected indent (<string>, line 25): 14
+failed: name 'datetime' is not defined: 14
+failed: unexpected indent (<string>, line 7): 14
+failed: name 'dt' is not defined: 13
+failed: name '_color_to_rgb' is not defined: 12
+failed: unexpected indent (<string>, line 11): 11
+failed: name 'Node' is not defined: 11
+failed: unexpected indent (<string>, line 68): 11
+failed: unexpected indent (<string>, line 17): 11
+failed: unexpected indent (<string>, line 14): 11
+failed: name '_validate_date' is not defined: 10
+failed: 'NoneType' object is not subscriptable: 10
+failed: unexpected indent (<string>, line 5): 10
+failed: name 'lookup_unit_table' is not defined: 10
+failed: name 'NO_DEFAULT' is not defined: 10
+failed: unexpected indent (<string>, line 23): 10
+failed: No module named 'lorem': 10
+failed: len(ident) should match the number of columns of exog_vc: 10
+failed: unexpected indent (<string>, line 36): 10
+failed: name '_sentry' is not defined: 10
+failed: name 'plot' is not defined: 10
+failed: name '_wrap_date' is not defined: 9
+failed: name 'check_args' is not defined: 9
+failed: 'int' object is not iterable: 9
+failed: expected str, bytes or os.PathLike object, not timezone: 9
+failed: cannot import name 'DMDomainError' from 'sympy.polys.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/matrices/__init__.py): 9
+failed: unexpected indent (<string>, line 13): 9
+failed: unexpected indent (<string>, line 2): 8
+failed: unexpected indent (<string>, line 28): 8
+failed: unexpected indent (<string>, line 16): 7
+failed: 'list' object has no attribute 'shape': 7
+failed: : 7
+failed: 0: 6
+failed: 'return' outside function (<string>, line 1): 6
+failed: name 'is_aware' is not defined: 6
+failed: division by zero: 6
+failed: f(a) and f(b) must have different signs: 6
+failed: 'HolderTuple' object has no attribute 'statistic': 6
+failed: invalid syntax (<string>, line 26): 6
+failed: inverse() missing 1 required positional argument: 'z': 6
+failed: name 'Iterable' is not defined: 6
+failed: unexpected indent (<string>, line 55): 6
+failed: unexpected indent (<string>, line 19): 6
+failed: No module named 'sympy.polys.matrices.densematrix': 6
+failed: unexpected indent (<string>, line 30): 6
+failed: cannot convert float NaN to integer: 6
+failed: expected an indented block (<string>, line 11): 6
+failed: Timestamp is too large to be normalized: 5
+failed: Input number must be greater than 1: 5
+failed: name 'horizontal_distance' is not defined: 5
+failed: name 'Heap' is not defined: 5
+failed: name 'find_unmatched_sgr' is not defined: 5
+failed: name 'ansi_sgr' is not defined: 5
+failed: name 'color_wrap' is not defined: 5
+failed: unexpected indent (<string>, line 51): 5
+failed: usage: resultexec.py [global_opts] cmd1 [cmd1_opts] [cmd2 [cmd2_opts] ...]
+   or: resultexec.py --help [cmd1 cmd2 ...]
+   or: resultexec.py --help-commands
+   or: resultexec.py cmd --help
+
+error: option -m not recognized: 5
+failed: name 'contextlib' is not defined: 5
+failed: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex: 5
+failed: name 'x509' is not defined: 5
+failed: name '_read_key' is not defined: 5
+failed: name 'UASTRINGS' is not defined: 5
+failed: name 'default_port' is not defined: 5
+failed: Domain name contains empty labels: 5
+failed: name 'unpack_from' is not defined: 5
+failed: name 'hostport' is not defined: 5
+failed: unexpected indent (<string>, line 39): 5
+failed: name '_LinuxDesktopEnvironment' is not defined: 5
+failed: name 'unescapeHTML' is not defined: 5
+failed: name 'datetime_from_str' is not defined: 5
+failed: name 'BOMS' is not defined: 5
+failed: name 'MONTH_NAMES' is not defined: 5
+failed: name '_multipart_encode_impl' is not defined: 5
+failed: name 'NUMBER_RE' is not defined: 5
+failed: name 'extract_timezone' is not defined: 5
+failed: name 'caesar' is not defined: 5
+failed: name 'unsmuggle_url' is not defined: 5
+failed: name 'smuggle_url' is not defined: 5
+failed: unexpected indent (<string>, line 35): 5
+failed: name 'and_' is not defined: 5
+failed: invalid syntax (<string>, line 25): 5
+failed: name '_error_files' is not defined: 5
+failed: name 'is_naive' is not defined: 5
+failed: name 'ACCEPT_LANGUAGE_HEADER_MAX_LENGTH' is not defined: 5
+failed: name 'smart_split_re' is not defined: 5
+failed: a bytes-like object is required, not 'str': 5
+failed: 'MockOpener' object has no attribute 'proto': 5
+failed: name 'PrePostTestField' is not defined: 5
+failed: __init__() missing 1 required positional argument: 'fields': 5
+failed: No module named 'pydantic': 5
+failed: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1): 5
+failed: name '_get_value_for_keys' is not defined: 5
+failed: module 'pyarrow.compute' has no attribute 'col': 5
+failed: name 'pyarrow' is not defined: 5
+failed: name 'GeoIndex' is not defined: 5
+failed: index 3 is out of bounds for axis 1 with size 3: 5
+failed: operands could not be broadcast together with shapes (10,) (5,) : 5
+failed: invalid syntax (<string>, line 14): 5
+failed: operands could not be broadcast together with shapes (2,) (3,) : 5
+failed: shapes (2,2) and (4,) not aligned: 2 (dim 1) != 4 (dim 0): 5
+failed: 'prestige': 5
+failed: Changing the dtype to a subarray type is only supported if the total itemsize is unchanged: 5
+failed: name 'n_jobs' is not defined: 5
+failed: module 'statsmodels.tools.linalg' has no attribute 'toeplitz': 5
+failed: 'Point' object has no attribute 'to_wkt': 5
+failed: name 'S' is not defined: 5
+failed: cannot import name 'FactRules' from 'sympy.assumptions' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/assumptions/__init__.py): 5
+failed: 'Add' object is not iterable: 5
+failed: __new__() missing 1 required positional argument: 'lower': 5
+failed: name 'Expr' is not defined: 5
+failed: cannot import name 'chebyshevu_poly' from 'sympy.polys.polyfuncs' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/polyfuncs.py): 5
+failed: No module named 'sympy.polys.matrices.densearith': 5
+failed: cannot import name 'Lambdifier' from 'sympy.utilities.lambdify' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/utilities/lambdify.py): 5
+failed: 'return' outside function (<string>, line 2): 5
+failed: dump_pyx() got an unexpected keyword argument 'output': 5
+failed: 'list' object has no attribute 'write': 5
+failed: unhashable type: 'dict': 5
+failed: unexpected indent (<string>, line 24): 5
+failed: cannot import name 'AlgebraicField' from 'sympy.polys.numberfields' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/numberfields/__init__.py): 5
+failed: invalid syntax (<string>, line 19): 5
+failed: expected an indented block (<string>, line 7): 5
+failed: name 'lex' is not defined: 5
+failed: `indices` and `arr` must have the same number of dimensions: 5
+failed: 'ArrayLike' object is not iterable: 5
+failed: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe'': 5
+failed: RandomState.randn() argument after * must be an iterable, not int: 5
+failed: invalid shape for coordinate array: 5
+failed: DID NOT RAISE <class 'ImportError'>: 5
+failed: sklearn.mixture._gaussian_mixture.GaussianMixture() got multiple values for keyword argument 'covariance_type': 5
+failed: '<' not supported between instances of 'NoneType' and 'int': 5
+failed: 'dict' object is not callable: 5
+failed: unexpected indent (<string>, line 82): 5
+failed: DID NOT RAISE <class 'TypeError'>: 5
+failed: name 'Union' is not defined: 5
+failed: Seed must be of type {None, int, array_like}: 5
+failed: [Errno 2] No such file or directory: 'toy-model.bin': 5
+failed: dimension mismatch: 5
+failed: unexpected indent (<string>, line 3): 5
+failed: 'float' object is not callable: 5
+failed: aic_simple() takes 1 positional argument but 2 were given: 5
+failed: cannot import name 'SlownessLayer' from 'obspy.taup' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/obspy/taup/__init__.py): 5
+failed: No module named 'obspy.signal.resample': 5
+failed: int too big to convert: 5
+failed: name '_generate_result_line' is not defined: 5
+failed: name 'dictMap' is not defined: 5
+failed: argument must be an int, or have a fileno() method.: 5
+failed: __init__() missing 1 required positional argument: 'name': 5
+failed: name 'remove_if_exists' is not defined: 5
+failed: name 'DEFAULT_EXPONENT' is not defined: 5
+failed: name 'get_primality_testing_rounds' is not defined: 5
+failed: Invalid hash function specified: 5
+failed: name '_REVERSE_BITS' is not defined: 5
+failed: name 'InverseSqrt2exp' is not defined: 5
+failed: name 'echelon_form' is not defined: 5
+failed: 'L' format requires 0 <= number <= 4294967295: 5
+failed: name 'HAVE_GMP' is not defined: 5
+failed: 'tuple' object has no attribute 'insert': 5
+failed: non-hexadecimal number found in fromhex() arg at position 0: 5
+failed: name 'IPv4Address' is not defined: 5
+failed: name 'gcd2' is not defined: 5
+failed: name 'lcm2' is not defined: 5
+failed: name 'MalformedSignature' is not defined: 5
+failed: Value requires more bits than specified: 5
+failed: name '_timezone_cache' is not defined: 5
+failed: name 'add_mod' is not defined: 5
+failed: module 'matplotlib.colors' has no attribute 'husl_to_rgb': 5
+failed: name 'axis_ticklabels_overlap' is not defined: 5
+failed: name '_structured_bootstrap' is not defined: 5
+failed: Unsupported locator type. Must be LogLocator or ScalarFormatter.: 5
+failed: name '_PlottingContext' is not defined: 5
+failed: name 'SEABORN_PALETTES' is not defined: 5
+failed: name 'Tag' is not defined: 5
+failed: name 'KEYWORDS' is not defined: 5
+failed: name '_convert_desktop_shader' is not defined: 5
+failed: No module named 'vispy.fonts': 5
+failed: name '_find_walk_func_node' is not defined: 5
+failed: name '_draw_segment' is not defined: 5
+failed: name '_draw_trapezoid' is not defined: 5
+failed: name '_tokens_re' is not defined: 5
+failed: No module named 'webcolors': 5
+failed: name 'TypeJsonValue' is not defined: 5
+failed: name 'Element' is not defined: 5
+failed: 'JsCode' object has no attribute 'code': 5
+failed: name 'FileSize' is not defined: 5
+failed: object of type 'NoneType' has no len(): 5
+failed: Invalid IPv6 URL: 5
+failed: name 'abspath' is not defined: 5
+failed: Unable to locate credentials: 5
+failed: name '_VALID_OP_NAME_PART' is not defined: 5
+failed: invalid syntax (<string>, line 12): 5
+failed: name 'css_comments' is not defined: 5
+failed: module 'plotly.io' has no attribute 'scope': 5
+failed: string indices must be integers: 5
+failed: name 'fix_column_name' is not defined: 5
+failed: name 'ABSOLUTE_RE' is not defined: 5
+failed: name 'COORD_RE' is not defined: 5
+failed: name 'nsprefixes' is not defined: 5
+failed: name 'makeelement' is not defined: 5
+failed: name 'pyproj_INSTALLED' is not defined: 5
+failed: name '_normalize_field' is not defined: 5
+failed: name 'get_active_console' is not defined: 5
+failed: 'NoneType' object has no attribute 'endswith': 5
+failed: name 'parse_layout_variant' is not defined: 5
+failed: name 'xldate_from_date_tuple' is not defined: 5
+failed: name '_parse_url' is not defined: 5
+failed: name 'AudioBuffer' is not defined: 5
+failed: name 'chunked' is not defined: 5
+failed: name '_get_red' is not defined: 5
+failed: 'return' outside function (<string>, line 7): 5
+failed: name 'is_ip_address' is not defined: 5
+failed: name '_white_levels_to_color_temperature' is not defined: 5
+failed: '>' not supported between instances of 'str' and 'int': 5
+failed: free version too old: 5
+failed: name 'SIOCGIFADDR' is not defined: 5
+failed: name 'SIOCGIFBRDADDR' is not defined: 5
+failed: name 'SIOCGIFHWADDR' is not defined: 5
+failed: name 'memoize' is not defined: 5
+failed: Too few parameters for typing.Generator; actual 1, expected 3: 5
+failed: name 'row_prettytable' is not defined: 4
+failed: '' does not appear to be an IPv4 or IPv6 address: 4
+failed: name 'datetime_round' is not defined: 4
+failed: name '_base_n_table' is not defined: 4
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 21): 4
+failed: cannot import name 'available_attrs' from 'django.utils.decorators' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/django/utils/decorators.py): 4
+failed: name 'GeoDataFrame' is not defined: 4
+failed: invalid syntax (<string>, line 24): 4
+failed: shape mismatch: objects cannot be broadcast to a single shape: 4
+failed: cannot import name 'data' from 'statsmodels.datasets' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/statsmodels/datasets/__init__.py): 4
+failed: name 'Gaussian' is not defined: 4
+failed: unexpected indent (<string>, line 12): 4
+failed: data type 'prop1' not understood: 4
+failed: name 'multithreading_enabled' is not defined: 4
+failed: cannot import name 'ProductOrder' from 'sympy.combinatorics' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/combinatorics/__init__.py): 4
+failed: cannot import name 'hermite_poly' from 'sympy.polys.polyfuncs' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/polyfuncs.py): 4
+failed: module 'gmpy2' has no attribute 'jacobi_symbol': 4
+failed: Cannot change data-type for object array.: 4
+failed: x is not broadcastable to the shape (ndim, 2): 4
+failed: 'return' outside function (<string>, line 28): 4
+failed: hermfit() missing 1 required positional argument: 'deg': 4
+failed: convert_to_float() missing 1 required positional argument: 'preserve_range': 4
+failed: cannot import name 'TypeGuard' from 'typing' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/typing.py): 4
+failed: invalid syntax (<string>, line 21): 4
+failed: invalid syntax (<string>, line 20): 4
+failed: Odd-length string: 4
+failed: 'NoneType' object has no attribute 'group': 4
+failed: name '_EscapeSubMethod' is not defined: 4
+failed: Object of type ndarray is not JSON serializable: 4
+failed: Unknown feature webp: 4
+failed: 'Grid' object has no attribute 'row': 4
+failed: name 'match_max_scale' is not defined: 4
+failed: sh() takes 1 positional argument but 2 were given: 4
+failed: object of type 'list_iterator' has no len(): 4
+failed: 0 is not in [{1, 2, 3}, {4, 5, 6}, {8, 9, 7}]: 3
+failed: module 'xarray.coding.strings' has no attribute 'decode_cf_variable': 3
+failed: 'Variable' object has no attribute 'name': 3
+failed: cannot use a string pattern on a bytes-like object: 3
+failed: name 'a' is not defined: 3
+failed: argument of type 'NoneType' is not iterable: 3
+failed: expected string or bytes-like object: 3
+failed: list indices must be integers or slices, not str: 3
+failed: Input date is not a valid date: 3
+failed: name 'make_headers' is not defined: 3
+failed: cannot import name 'cffilter' from 'statsmodels.tsa.filters' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/statsmodels/tsa/filters/__init__.py): 3
+failed: If a `factors` dictionary is provided, then it must include entries for each observed variable. Missing variables are: {'endog_2', 'endog_1', 'endog_3'}.: 3
+failed: invalid syntax (<string>, line 29): 3
+failed: unsupported operand type(s) for -: 'str' and 'int': 3
+failed: expected an indented block (<string>, line 9): 3
+failed: invalid syntax (<string>, line 15): 3
+failed: invalid syntax (<string>, line 35): 3
+failed: cannot import name 'cholesky' from 'sympy.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/matrices/__init__.py): 3
+failed: cannot import name 'bernoulli_poly' from 'sympy' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/__init__.py): 3
+failed: unexpected indent (<string>, line 15): 3
+failed: cannot import name 'ReplaceOptim' from 'sympy.simplify' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/simplify/__init__.py): 3
+failed: cannot import name 'ddm_determinant' from 'sympy.polys.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/matrices/__init__.py): 3
+failed: unexpected indent (<string>, line 37): 3
+failed: object of type 'Union' has no len(): 3
+failed: unexpected indent (<string>, line 9): 3
+failed: unmatched ')' (<string>, line 35): 3
+failed: expected an indented block (<string>, line 31): 3
+failed: cannot import name 'monomial_key' from 'sympy.polys.monomials' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/monomials.py): 3
+failed: cannot import name 'Submodule' from 'sympy.polys.numberfields' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/numberfields/__init__.py): 3
+failed: cannot import name 'DomainMatrix' from 'sympy' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/__init__.py): 3
+failed: unexpected indent (<string>, line 34): 3
+failed: unexpected indent (<string>, line 42): 3
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 28): 3
+failed: list indices must be integers or slices, not tuple: 3
+failed: unsupported operand type(s) for -: 'list' and 'int': 3
+failed: value_counts() got an unexpected keyword argument 'normalize': 3
+failed: __init__() got an unexpected keyword argument 'transition_prob': 3
+failed: name '_BinaryMatrixRankSmall' is not defined: 3
+failed: invalid literal for int() with base 2: '': 3
+failed: name 'FIPS_SHA_REGEX' is not defined: 3
+failed: name '_patch_colormap_display' is not defined: 3
+failed: 'Axes' object has no attribute 'legend_handles': 3
+failed: 'tuple' object has no attribute 'shape': 3
+failed: No module named 'plotnine': 3
+failed: name 'prepare_pytorch' is not defined: 3
+failed: name '_shutdown_cleanup' is not defined: 3
+failed: bad escape \w at position 1: 3
+failed: 'return' outside function (<string>, line 8): 3
+failed: [Errno 2] No such file or directory: '/sys/class/net/lo/netmask': 3
+failed: unsupported operand type(s) for /: 'NoneType' and 'int': 3
+failed: Number too large for deterministic test: 2
+failed: type object 'datetime.timedelta' has no attribute 'minutes': 2
+failed: module 'xarray.coding.variables' has no attribute 'decode_cf_variable': 2
+failed: ufunc 'add' did not contain a loop with signature matching types (dtype('float64'), dtype('<U5')) -> None: 2
+failed: name '_Component' is not defined: 2
+failed: Type specification not recognized: 2
+failed: module 'test_module' has no attribute '__file__': 2
+failed: embedded null byte: 2
+failed: 'return' outside function (<string>, line 32): 2
+failed: 'NoneType' object has no attribute 'items': 2
+failed: name 'closeable_response' is not defined: 2
+failed: name 'MASK' is not defined: 2
+failed: 'Hampel' object has no attribute 'psi_prime': 2
+failed: only size-1 arrays can be converted to Python scalars: 2
+failed: invalid syntax (<string>, line 33): 2
+failed: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 9 is different from 10): 2
+failed: Error evaluating factor: NameError: name 'x1' is not defined
+    y ~ 1 + x0 + x1 + x2
+                 ^^: 2
+failed: Error evaluating factor: NameError: name 'x2' is not defined
+    y ~ 1 + x0 + x1 + x2
+                      ^^: 2
+failed: name 'NamedTuple' is not defined: 2
+failed: 'Binomial' object has no attribute 'cdf': 2
+failed: 'p' must be 1-dimensional: 2
+failed: object of type 'numpy.float64' has no len(): 2
+failed: tuple index out of range: 2
+failed: No module named 'statsmodels.stats.kernel_density': 2
+failed: invalid syntax (<string>, line 18): 2
+failed: __init__() got an unexpected keyword argument 'params': 2
+failed: expected an indented block (<string>, line 32): 2
+failed: shape mismatch: value array of shape (3,) could not be broadcast to indexing result of shape (1,): 2
+failed: closing parenthesis ')' does not match opening parenthesis '[' (<string>, line 13): 2
+failed: 'tuple' object has no attribute 'has_z': 2
+failed: same_color() takes 2 positional arguments but 3 were given: 2
+failed: object of type 'function' has no len(): 2
+failed: invalid syntax (<string>, line 27): 2
+failed: cannot import name 'factor' from 'sympy.ntheory.factor_' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/ntheory/factor_.py): 2
+failed: maximum recursion depth exceeded in comparison: 2
+failed: invalid syntax (<string>, line 64): 2
+failed: cannot import name 'bernoulli_poly' from 'sympy.polys.polytools' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/polytools.py): 2
+failed: 'int' object has no attribute 'subs': 2
+failed: Input arguments must be Matrix objects: 2
+failed: Input arguments A and B must be Matrix objects.: 2
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 22): 2
+failed: Expected a sequence of numeric coefficients for Fourier Transform: 2
+failed: Attribute 'Mul' was not installed on SymPy registry S: 2
+failed: cannot import name 'scan_and_fill' from 'sympy.combinatorics.coset_table' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/combinatorics/coset_table.py): 2
+failed: invalid syntax (<string>, line 28): 2
+failed: cannot import name 'ddm_det' from 'sympy.polys.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/matrices/__init__.py): 2
+failed: cannot import name 'QQ_algebraic' from 'sympy.polys.domains' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/domains/__init__.py): 2
+failed: No module named 'sympy.combinatorics.free_group': 2
+failed: unexpected indent (<string>, line 87): 2
+failed: cannot import name 'coset_enumeration_f' from 'sympy.combinatorics.fp_groups' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/combinatorics/fp_groups.py): 2
+failed: cannot unpack non-iterable Particle object: 2
+failed: cannot use assignment expressions with subscript (<string>, line 84): 2
+failed: 'int' object is not callable: 2
+failed: cannot import name 'continued_fraction_reduce' from 'sympy.series.sequences' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/series/sequences.py): 2
+failed: invalid syntax (<string>, line 13): 2
+failed: unexpected indent (<string>, line 40): 2
+failed: cannot import name 'DomainMatrix' from 'sympy.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/matrices/__init__.py): 2
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 32): 2
+failed: index -2 is out of bounds for axis 0 with size 1: 2
+failed: index 1 is out of bounds for axis 0 with size 1: 2
+failed: operands could not be broadcast together with shapes (70,100) (100,70) : 2
+failed: Cannot convert numpy array with object dtype to numeric type: 2
+failed: Argument 'dt_str' has incorrect type (expected str, got list): 2
+failed: take_nd() missing 1 required positional argument: 'indexer': 2
+failed: 'Period' object has no attribute 'to_period': 2
+failed: Unrecognized input type or format: 2
+failed: 'NoneType' object has no attribute 'get': 2
+failed: 'Categorical' object has no attribute '_values': 2
+failed: AutoSuggestFromHistory() takes no arguments: 2
+failed: from_bounds() missing 3 required positional arguments: 'y0', 'width', and 'height': 2
+failed: 'NoneType' object is not iterable: 2
+failed: expected str, bytes or os.PathLike object, not BytesIO: 2
+failed: argument of type 'float' is not iterable: 2
+failed: simulate_seismometer() got an unexpected keyword argument 'damp': 2
+failed: object of type 'int' has no len(): 2
+failed: name 'Igamc' is not defined: 2
+failed: not invertible: 2
+failed: name 'OverlappingTemplateMatchingMatrix' is not defined: 2
+failed: name 'm' is not defined: 2
+failed: 'NoneType' object has no attribute 'get_figure': 2
+failed: index 0 is out of bounds for axis 0 with size 0: 2
+failed: axes don't match array: 2
+failed: name 'SPLIT_NAMED_RANGE_RE' is not defined: 2
+failed: module 'sqlalchemy.testing.config' has no attribute '_start': 2
+failed: name 'NFSUrl' is not defined: 2
+failed: [Errno 2] No such file or directory: 'hw.acpi.battery.life': 2
+failed: name 'get_dates' is not defined: 1
+failed: 0 is not in {frozenset({1, 2, 3}), frozenset({4, 5, 6}), frozenset({8, 9, 7})}: 1
+failed: Number exceeds deterministic test's upper limit and probabilistic testing not allowed.: 1
+failed: unhashable type: 'MultiIndex': 1
+failed: 'z': 1
+failed: Index(...) must be called with a collection of some kind, array(0) was passed: 1
+failed: sequence item 1: expected str instance, bytes found: 1
+failed: time data 'now-1day' does not match format '%Y%m%d': 1
+failed: object of type 'PosixPath' has no len(): 1
+failed: Formatted number exceeds the maximum allowed digits.: 1
+failed: 'return' outside function (<string>, line 37): 1
+failed: No module named 'django.utils.lru_cache': 1
+failed: expected an indented block (<string>, line 15): 1
+failed: f-string expression part cannot include a backslash (<string>, line 14): 1
+failed: Mock object has no attribute '__name__': 1
+failed: _zstat_generic2() got an unexpected keyword argument 'diff': 1
+failed: func_confint() missing 1 required positional argument: 'p0': 1
+failed: keyword argument repeated: start_params (<string>, line 18): 1
+failed: Function does not belong to statsmodels library: 1
+failed: bisect() missing 1 required positional argument: 'b': 1
+failed: only integer scalar arrays can be converted to a scalar index: 1
+failed: Output size (100,) is not compatible with broadcast dimensions of inputs (100, 100).: 1
+failed: Output size (400,) is not compatible with broadcast dimensions of inputs (400, 400).: 1
+failed: shapes (12,6) and (2,) not aligned: 6 (dim 1) != 2 (dim 0): 1
+failed: setting an array element with a sequence.: 1
+failed: ident must be a one-dimensional array: 1
+failed: shapes (10,100) and (10,) not aligned: 100 (dim 1) != 10 (dim 0): 1
+failed: Error evaluating factor: NameError: name 'x0' is not defined
+    y ~ 1 + x0 + x1 + x2
+            ^^: 1
+failed: closing parenthesis ')' does not match opening parenthesis '[' (<string>, line 16): 1
+failed: If a `factors` dictionary is provided, then it must include entries for each observed variable. Missing variables are: {'endog_2', 'endog_1', 'endog_0'}.: 1
+failed: 'Binomial' object has no attribute 'rvs': 1
+failed: operands could not be broadcast together with shapes (100,) (10,) : 1
+failed: shape < 0: 1
+failed: Invalid state space initialization method.: 1
+failed: Schur decomposition solver error.: 1
+failed: cannot import name 'MultivariateKernel' from 'statsmodels.nonparametric.kernel_density' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/statsmodels/nonparametric/kernel_density.py): 1
+failed: No module named 'statsmodels.stats.kernel_estimation': 1
+failed: cannot import name 'MultivariateKernel' from 'statsmodels.nonparametric.kernel_regression' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/statsmodels/nonparametric/kernel_regression.py): 1
+failed: f_test() missing 1 required positional argument: 'r_matrix': 1
+failed: wrong shape for coefs: 1
+failed: cannot import name 'Dataset' from 'statsmodels.datasets' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/statsmodels/datasets/__init__.py): 1
+failed: expected an indented block (<string>, line 16): 1
+failed: brentq_expanding() got an unexpected keyword argument 'a': 1
+failed: array_like() got an unexpected keyword argument 'allow_1d': 1
+failed: index 1 is out of bounds for axis 0 with size 0: 1
+failed: data type 'qn_scale' not understood: 1
+failed: keyword argument repeated: seasonal (<string>, line 37): 1
+failed: Matrix length should be 6 for 2D or 12 for 3D transformations.: 1
+failed: string index out of range: 1
+failed: DID NOT RAISE <class 'ValueError'>: 1
+failed: affine_transform() got an unexpected keyword argument 'translation': 1
+failed: 'LineString' object has no attribute 'exterior': 1
+failed: UnsupportedOperationException: getX called on empty Point
+: 1
+failed: isqrt() of negative number: 1
+failed: 'int' object is not subscriptable: 1
+failed: name 'Mul' is not defined: 1
+failed: invalid syntax (<string>, line 32): 1
+failed: __new__() missing 1 required positional argument: 'z': 1
+failed: 'int' object has no attribute 'is_integer': 1
+failed: pole in hypergeometric series: 1
+failed: cannot import name 'Poly' from 'sympy.polys.polyclasses' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/polyclasses.py): 1
+failed: Input arguments A and B must be Matrix objects: 1
+failed: can't multiply sequence by non-int of type 'list': 1
+failed: cannot import name 'ring' from 'sympy.polys.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/matrices/__init__.py): 1
+failed: cannot import name 'eye' from 'sympy.polys.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/matrices/__init__.py): 1
+failed: expected an indented block (<string>, line 46): 1
+failed: invalid syntax (<string>, line 10): 1
+failed: invalid syntax (<string>, line 54): 1
+failed: expected an indented block (<string>, line 14): 1
+failed: 'generator' object is not subscriptable: 1
+failed: substring not found: 1
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 19): 1
+failed: 'Dummy' object is not iterable: 1
+failed: invalid syntax (<string>, line 41): 1
+failed: unindent does not match any outer indentation level (<string>, line 3): 1
+failed: expected an indented block (<string>, line 54): 1
+failed: invalid syntax (<string>, line 30): 1
+failed: name 'ZZ' is not defined: 1
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 20): 1
+failed: expected an indented block (<string>, line 8): 1
+failed: module 'gmpy2' has no attribute 'I': 1
+failed: Generator expression must be parenthesized (<string>, line 15): 1
+failed: invalid syntax (<string>, line 16): 1
+failed: invalid syntax (<string>, line 104): 1
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 38): 1
+failed: closing parenthesis ')' does not match opening parenthesis '[' (<string>, line 45): 1
+failed: name 'spring' is not defined: 1
+failed: cannot unpack non-iterable Point object: 1
+failed: name 'Rational' is not defined: 1
+failed: {u0(t)} are defined as both generalized coordinates and generalized speeds.: 1
+failed: 'ReferenceFrame' object has no attribute 'set_pos': 1
+failed: cannot unpack non-iterable RigidBody object: 1
+failed: name 'M' is not defined: 1
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 29): 1
+failed: closing parenthesis ')' does not match opening parenthesis '[' on line 12 (<string>, line 13): 1
+failed: iterable unpacking cannot be used in comprehension (<string>, line 97): 1
+failed: invalid syntax (<string>, line 96): 1
+failed: cannot assign to operator (<string>, line 32): 1
+failed: invalid syntax (<string>, line 23): 1
+failed: invalid syntax (<string>, line 36): 1
+failed: invalid syntax (<string>, line 34): 1
+failed: could not broadcast input array from shape (3,3) into shape (3,3,0): 1
+failed: x is not broadcastable to the shape (ndim, 2).: 1
+failed: 'return' outside function (<string>, line 27): 1
+failed: module 'numpy.fft' has no attribute 'chebyshev': 1
+failed: index 1 is out of bounds for axis 1 with size 1: 1
+failed: operands could not be broadcast together with remapped shapes [original->remapped]: (3,)  and requested shape (1,1): 1
+failed: data type '' not understood: 1
+failed: can only concatenate tuple (not "int") to tuple: 1
+failed: 'list' object has no attribute 'ndim': 1
+failed: could not broadcast input array from shape (3,) into shape (): 1
+failed: operands could not be broadcast together with shapes (9760,3,3) (9712,3,3) : 1
+failed: keyword argument repeated: output (<string>, line 29): 1
+failed: name 'binary_dilation' is not defined: 1
+failed: invalid syntax (<string>, line 38): 1
+failed: closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 30): 1
+failed: Cannot convert <class 'numpy.ndarray'> to numeric type: 1
+failed: Cannot convert <class 'numpy.ndarray'> to numeric: 1
+failed: can't convert complex to float: 1
+failed: Argument 'dt_str' has incorrect type (expected str, got float): 1
+failed: unexpected indent (<string>, line 31): 1
+failed: module 'pandas._libs.lib' has no attribute 'concat_compat': 1
+failed: Lengths must match: 1
+failed: module 'pandas._libs.lib' has no attribute 'concatenate_block_managers': 1
+failed: Unable to convert date to ordinal value: 1
+failed: cannot index with vector containing NA / NaN values: 1
+failed: cannot use a boolean indexer with an object-dtype array that contains missing values: 1
+failed: Cannot interpret 'datetime64[ns, US/Eastern]' as a data type: 1
+failed: Unrecognized compression type: 765eb08b-d7a9-42c6-929c-1665ab175835.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: Unrecognized compression type: b8d6cae7-1656-47d7-bed8-ff7c47a2c8d7.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: Unrecognized compression type: 7c3764b0-9ca2-4f5e-8a7f-27e8036cba2c.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: Unrecognized compression type: c2b10d26-3109-47be-bd26-b6fd31831c78.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: Unrecognized compression type: b06b43e4-9dc3-4d95-80c7-6f166f81618f.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: 'rowLabels' must be of length 3: 1
+failed: look-behind requires fixed-width pattern: 1
+failed: 'FigureCanvasAgg' object has no attribute 'print_svg': 1
+failed: 'list' object is not an iterator: 1
+failed: <_io.BytesIO object at 0x7a235722a400> is not a callable object: 1
+failed: _read() missing 3 required positional arguments: 'position', 'length', and 'dtype': 1
+failed: cannot convert float infinity to integer: 1
+failed: invalid syntax (<string>, line 45): 1
+failed: 'umbrella': 1
+failed: 'dict' object has no attribute 'logprob': 1
+failed: operands could not be broadcast together with shapes (4,) (2,) (4,) : 1
+failed: Expecting value: line 1 column 1 (char 0): 1
+failed: name 'KeyedHashVector' is not defined: 1
+failed: 'numpy.ndarray' object has no attribute 'reindex': 1
+failed: 'RendererAgg' object has no attribute 'get_window_extent': 1
+failed: getattr(): attribute name must be string: 1
+failed: 'str' object is not callable: 1
+failed: f() missing 1 required positional argument: 'y': 1
+failed: unsupported operand type(s) for -: 'list' and 'list': 1
+failed: keyword argument repeated: units (<string>, line 28): 1
+failed: 'float' object cannot be interpreted as an integer: 1
+failed: shapes (256,1) and (3,3) not aligned: 1 (dim 1) != 3 (dim 0): 1
+failed: cannot import name '_ColorPalette' from 'seaborn' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/seaborn/__init__.py): 1
+failed: "'__name__' not in globals": 1
+failed: 'Spine' object has no attribute 'set_smart_bounds': 1
+failed: 'NoneType' object has no attribute 'legendPatch': 1
+failed: Invalid RGBA argument: 0.25: 1
+failed: keyword argument repeated: markerscale (<string>, line 66): 1
+failed: module 'matplotlib.cm' has no attribute 'cmap_d': 1
+failed: cannot import name 'Option' from 'datashader' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/datashader/__init__.py): 1
+failed: No connection adapters were found for 'C:/Users/': 1
+failed: cannot reshape array of size 76800 into shape (7,6,3,20,20): 1
+failed: Unsupported input type for conversion to numpy array.: 1
+failed: No module named 'chainer': 1
+failed: name '_CatchDisplay' is not defined: 1
+failed: Unsupported TimeDelta dtype found in DataFrame.: 1
+failed: name 'translate_layout_keys' is not defined: 1
+failed: Single '}' encountered in format string: 1
+failed: module 'sqlalchemy.testing.config' has no attribute '_default': 1
+failed: module 'sqlalchemy.testing.config' has no attribute '_orig': 1
+failed: module 'sqlalchemy.testing.config' has no attribute '_original': 1
+failed: module 'colorsys' has no attribute 'rgb_to_rgbw': 1
+failed: multiple repeat at position 25: 1
+failed: name 'key' is not defined: 1
+failed: Swap line not found in /proc/meminfo: 1
+failed: Statistic 'total memory' not found in vmstat output: 1
+failed: range() arg 3 must not be zero: 1

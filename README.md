@@ -7,11 +7,12 @@ cd DomainEval/setup
 env_name="your env name"
 conda create -n "$env_name" python=3.9 -y
 conda activate "$env_name"
-pip install -r requirements_py39.txt
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia -y
+pip install -r requirements_py39.txt
 ```
 
 ## Benchmark Construction
+
 ### Domain Repository Collection
 
 Move the code repository to the path directory of the corresponding domain `{src_data}/{domain}`.
@@ -20,7 +21,7 @@ Move the code repository to the path directory of the corresponding domain `{src
 ```bash
 domain="your domain"
 version="your version"
-srcdata_dir="your {src_data}"
+srcdata_dir="{src_data}"
 
 cd DomainEval
 mkdir "log_${version}"
@@ -67,7 +68,7 @@ and add your model api in `get_message` within `utils/utils_chat.py` and `self.m
 ```bash
 model_name="your model name or std"
 
-# set the k in pass@k
+# set the k in pass@k, it can only be 1 or 5 currently
 k_pass=1 # or k_pass=5
 
 # set the version of the dataset
@@ -97,6 +98,9 @@ python resultanalyse.py \
 -k "$k_pass" \
 > "analyseresult/pass@${k_pass}/result_analyse_${model_name}.txt"
 ```
+
+Tips: 
+If you want to directly use dataset `domaineval_20240711` to evaluate LLMs, you can first set `model_name="std"`, `k_pass=1`, `version="20240711"`, and then run the commands in `Evaluation` section. If the environment is installed correctly, the accuracy of `std` should be close to or equal to 100%, and the only reason for test failure should be `timed out`.
 
 ## Submission
 

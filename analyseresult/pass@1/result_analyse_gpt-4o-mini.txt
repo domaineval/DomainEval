@@ -1,0 +1,296 @@
+Result Directory: executeresult/domaineval_20240711/gpt-4o-mini/pass_1
+Model: gpt-4o-mini
+Time:  2024-10-15 13:45:08
+
+Analyse topic: Basic
+Basic/chinese-calendar pass@1 = 6 / 9 = 66.67%
+Basic/arrow pass@1 = 0 / 2 = 0.00%
+Basic/Python pass@1 = 12 / 17 = 70.59%
+Basic/khal pass@1 = 5 / 11 = 45.45%
+Basic/faker pass@1 = 6 / 6 = 100.00%
+Basic/prettytable pass@1 = 1 / 2 = 50.00%
+Basic/charset_normalizer pass@1 = 1 / 1 = 100.00%
+Basic/workalendar pass@1 = 1 / 1 = 100.00%
+Basic/setuptools pass@1 = 2 / 3 = 66.67%
+Basic/xarray pass@1 = 34 / 47 = 72.34%
+Basic/python-holidays pass@1 = 2 / 3 = 66.67%
+Basic/vdirsyncer pass@1 = 4 / 5 = 80.00%
+Basic pass@1 = 74 / 107 = 69.16%
+
+Analyse topic: Network
+Network/requests pass@1 = 1 / 1 = 100.00%
+Network/mitmproxy pass@1 = 11 / 26 = 42.31%
+Network/yt-dlp pass@1 = 20 / 56 = 35.71%
+Network/django pass@1 = 122 / 138 = 88.41%
+Network/mechanize pass@1 = 14 / 17 = 82.35%
+Network/wtforms pass@1 = 0 / 2 = 0.00%
+Network/scrapy pass@1 = 4 / 7 = 57.14%
+Network/flask-restful pass@1 = 4 / 4 = 100.00%
+Network/sendgrid-python pass@1 = 3 / 3 = 100.00%
+Network/geopy pass@1 = 1 / 1 = 100.00%
+Network/werkzeug pass@1 = 0 / 1 = 0.00%
+Network pass@1 = 180 / 256 = 70.31%
+
+Analyse topic: Computation
+Computation/geopandas pass@1 = 13 / 14 = 92.86%
+Computation/statsmodels pass@1 = 140 / 186 = 75.27%
+Computation/shapely pass@1 = 19 / 27 = 70.37%
+Computation/tensorflow pass@1 = 2 / 2 = 100.00%
+Computation/sympy pass@1 = 1050 / 1084 = 96.86%
+Computation/gpt-engineer pass@1 = 1 / 1 = 100.00%
+Computation/numpy pass@1 = 80 / 105 = 76.19%
+Computation/scikit-image pass@1 = 61 / 72 = 84.72%
+Computation/pandas pass@1 = 58 / 77 = 75.32%
+Computation/ipython pass@1 = 20 / 28 = 71.43%
+Computation/gensim pass@1 = 17 / 21 = 80.95%
+Computation/librosa pass@1 = 1 / 1 = 100.00%
+Computation/scikit-learn pass@1 = 1 / 1 = 100.00%
+Computation/obspy pass@1 = 69 / 77 = 89.61%
+Computation/nltk pass@1 = 8 / 9 = 88.89%
+Computation pass@1 = 1540 / 1705 = 90.32%
+
+Analyse topic: Cryptography
+Cryptography/firmware pass@1 = 0 / 1 = 0.00%
+Cryptography/freqtrade pass@1 = 11 / 17 = 64.71%
+Cryptography/pyopenssl pass@1 = 1 / 4 = 25.00%
+Cryptography/python-rsa pass@1 = 6 / 11 = 54.55%
+Cryptography/paranoid_crypto pass@1 = 5 / 23 = 21.74%
+Cryptography/python-hdwallet pass@1 = 0 / 1 = 0.00%
+Cryptography/python-paillier pass@1 = 3 / 3 = 100.00%
+Cryptography/pyjks pass@1 = 0 / 1 = 0.00%
+Cryptography/blake3-py pass@1 = 1 / 1 = 100.00%
+Cryptography/crypto-attacks pass@1 = 0 / 3 = 0.00%
+Cryptography/badsecrets pass@1 = 1 / 1 = 100.00%
+Cryptography/mpyc pass@1 = 0 / 1 = 0.00%
+Cryptography/py pass@1 = 0 / 1 = 0.00%
+Cryptography/cryptography pass@1 = 1 / 10 = 10.00%
+Cryptography/nucypher pass@1 = 2 / 3 = 66.67%
+Cryptography/python-ecdsa pass@1 = 7 / 11 = 63.64%
+Cryptography/detect-secrets pass@1 = 2 / 2 = 100.00%
+Cryptography/pycryptodome pass@1 = 2 / 3 = 66.67%
+Cryptography/asn1crypto pass@1 = 1 / 3 = 33.33%
+Cryptography pass@1 = 43 / 100 = 43.00%
+
+Analyse topic: Visualization
+Visualization/seaborn pass@1 = 27 / 46 = 58.70%
+Visualization/rich pass@1 = 5 / 8 = 62.50%
+Visualization/vispy pass@1 = 21 / 24 = 87.50%
+Visualization/pygwalker pass@1 = 3 / 3 = 100.00%
+Visualization/datashader pass@1 = 13 / 17 = 76.47%
+Visualization/plotnine pass@1 = 0 / 5 = 0.00%
+Visualization/word_cloud pass@1 = 1 / 1 = 100.00%
+Visualization/folium pass@1 = 9 / 11 = 81.82%
+Visualization/gradio pass@1 = 6 / 14 = 42.86%
+Visualization/tensorboardX pass@1 = 1 / 3 = 33.33%
+Visualization/vaex pass@1 = 0 / 1 = 0.00%
+Visualization/altair pass@1 = 2 / 5 = 40.00%
+Visualization/pygal pass@1 = 3 / 10 = 30.00%
+Visualization/Pillow pass@1 = 3 / 4 = 75.00%
+Visualization/matplotlib pass@1 = 4 / 7 = 57.14%
+Visualization/bokeh pass@1 = 7 / 9 = 77.78%
+Visualization/plotly.py pass@1 = 1 / 7 = 14.29%
+Visualization/redash pass@1 = 5 / 11 = 45.45%
+Visualization pass@1 = 111 / 186 = 59.68%
+
+Analyse topic: System
+System/openpyxl pass@1 = 3 / 5 = 60.00%
+System/python-docx pass@1 = 1 / 2 = 50.00%
+System/SQLAlchemy-2.0.31 pass@1 = 0 / 1 = 0.00%
+System/pandapower pass@1 = 2 / 2 = 100.00%
+System/loguru pass@1 = 1 / 2 = 50.00%
+System/poetry pass@1 = 1 / 1 = 100.00%
+System/anaconda pass@1 = 9 / 19 = 47.37%
+System/sentry pass@1 = 1 / 2 = 50.00%
+System/xlwt pass@1 = 3 / 3 = 100.00%
+System/xlrd pass@1 = 2 / 3 = 66.67%
+System/billiard pass@1 = 1 / 2 = 50.00%
+System/core pass@1 = 17 / 36 = 47.22%
+System/thefuck pass@1 = 2 / 2 = 100.00%
+System/glances pass@1 = 1 / 2 = 50.00%
+System/psutil pass@1 = 7 / 13 = 53.85%
+System/mpire pass@1 = 1 / 5 = 20.00%
+System pass@1 = 52 / 100 = 52.00%
+
+Basic pass@1 = 74 / 107 = 69.16%
+Network pass@1 = 180 / 256 = 70.31%
+Computation pass@1 = 1540 / 1705 = 90.32%
+Cryptography pass@1 = 43 / 100 = 43.00%
+Visualization pass@1 = 111 / 186 = 59.68%
+System pass@1 = 52 / 100 = 52.00%
+Total pass@1 = 2000 / 2454 = 81.50%
+Average pass@1 = 64.08%
+69.16	70.31	90.32	43.00	59.68	52.00	81.50	64.08	
+
+passed: 2000
+failed: AssertionError: 255
+timed out: 8
+failed: list index out of range: 7
+failed: No module named 'mpmath.libmpf': 6
+failed: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(): 3
+failed: expected string or bytes-like object: 3
+failed: not enough values to unpack (expected 2, got 1): 3
+failed: len(ident) should match the number of columns of exog_vc: 3
+failed: 'NoneType' object is not subscriptable: 2
+failed: expected str, bytes or os.PathLike object, not timezone: 2
+failed: Mock object has no attribute '__name__': 2
+failed: type object 'Logit' has no attribute 'linkfun': 2
+failed: UnsupportedOperationException: getX called on empty Point
+: 2
+failed: DID NOT RAISE <class 'ValueError'>: 2
+failed: cannot import name 'NoncommutativeSymbol' from 'sympy' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/__init__.py): 2
+failed: Non-hexadecimal digit found: 2
+failed: No module named 'husl': 2
+failed: 'str' object is not callable: 2
+failed: unsupported operand type(s) for /: 'NoneType' and 'int': 2
+failed: 0: 1
+failed: 0 is not in {frozenset({1, 2, 3}), frozenset({4, 5, 6}), frozenset({8, 9, 7})}: 1
+failed: Input must be a positive integer greater than 1.: 1
+failed: 'list' object has no attribute 'startswith': 1
+failed: usage: resultexec.py [global_opts] cmd1 [cmd1_opts] [cmd2 [cmd2_opts] ...]
+   or: resultexec.py --help [cmd1 cmd2 ...]
+   or: resultexec.py --help-commands
+   or: resultexec.py cmd --help
+
+error: option -m not recognized: 1
+failed: No module named 'cftime': 1
+failed: module 'xarray.coding.variables' has no attribute 'decode_cf_variable': 1
+failed: 'str' object has no attribute 'item': 1
+failed: unhashable type: 'RangeIndex': 1
+failed: 'Variable' object has no attribute 'name': 1
+failed: time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex: 1
+failed: name 'timedelta' is not defined: 1
+failed: Start index does not point to a quote: 1
+failed: sequence item 1: expected str instance, bytes found: 1
+failed: Domain name contains an empty label.: 1
+failed: typing.Optional cannot be used with isinstance(): 1
+failed: DID NOT RAISE <class 'struct.error'>: 1
+failed: Unknown desktop environment: %s: 1
+failed: time data 'now-1day' does not match format '%Y%m%d': 1
+failed: Port could not be cast to integer value as 'foo.bar': 1
+failed: Expecting ':' delimiter: line 2 column 27 (char 28): 1
+failed: 'str' object has no attribute 'decode': 1
+failed: bad character range .-  at position 12: 1
+failed: Expecting value: line 1 column 1 (char 0): 1
+failed: Invalid JSONP format: 1
+failed: cannot be pickled for testing reasons: 1
+failed: unhashable type: 'list': 1
+failed: module 'test_module' has no attribute '__file__': 1
+failed: a bytes-like object is required, not 'str': 1
+failed: 'closeable_response' object has no attribute 'seek': 1
+failed: 'UnboundField' object has no attribute 'pre_validate': 1
+failed: __init__() missing 1 required positional argument: 'fields': 1
+failed: operands could not be broadcast together with shapes (2,) (0,) : 1
+failed: index 3 is out of bounds for axis 1 with size 3: 1
+failed: all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s): 1
+failed: 'list' object has no attribute 'shape': 1
+failed: endog and exog matrices are different sizes: 1
+failed: cannot concatenate object of type '<class 'numpy.ndarray'>'; only Series and DataFrame objs are valid: 1
+failed: 'a' and 'p' must have same size: 1
+failed: Changing the dtype to a subarray type is only supported if the total itemsize is unchanged: 1
+failed: wrong shape for coefs: 1
+failed: Invalid level/trend specification: 'l': 1
+failed: index 0 is out of bounds for axis 0 with size 0: 1
+failed: could not broadcast input array from shape (3,) into shape (100,): 1
+failed: module 'statsmodels.tools.linalg' has no attribute 'toeplitz': 1
+failed: to_wkb() got an unexpected keyword argument 'srid': 1
+failed: get_geometry() takes from 2 to 3 positional arguments but 1 were given: 1
+failed: unmatched ')' (<string>, line 51): 1
+failed: cannot import name 'MatrixError' from 'sympy.matrices' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/matrices/__init__.py): 1
+failed: cannot import name 'Matrix' from 'sympy.polys.polytools' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/polys/polytools.py): 1
+failed: g() takes 1 positional argument but 2 were given: 1
+failed: 'Add' object is not iterable: 1
+failed: __new__() missing 1 required positional argument: 'lower': 1
+failed: Length of shift values must match the number of variables.: 1
+failed: object of type 'Union' has no len(): 1
+failed: 'arg' object has no attribute 'id': 1
+failed: invalid syntax (<string>, line 30): 1
+failed: invalid syntax (<string>, line 13): 1
+failed: name 'np' is not defined: 1
+failed: '<' not supported between instances of 'dict' and 'dict': 1
+failed: cannot import name 'Operator' from 'sympy.physics.secondquant' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/physics/secondquant.py): 1
+failed: module 'sympy.physics.mechanics' has no attribute 'msymbol': 1
+failed: module 'sympy.physics.mechanics' has no attribute 'cos': 1
+failed: unmatched ')' (<string>, line 39): 1
+failed: cannot import name 'TensorIndex' from 'sympy.tensor.indexed' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/site-packages/sympy/tensor/indexed.py): 1
+failed: `indices` and `arr` must have the same number of dimensions: 1
+failed: x cannot be broadcasted to shape (3, 2).: 1
+failed: 'ArrayLike' object is not iterable: 1
+failed: __init__() missing 1 required positional argument: 'data': 1
+failed: ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe'': 1
+failed: Iterator does not have an index: 1
+failed: 'tuple' object is not callable: 1
+failed: DID NOT RAISE <class 'ImportError'>: 1
+failed: name 'ndimage' is not defined: 1
+failed: sklearn.mixture._gaussian_mixture.GaussianMixture() got multiple values for keyword argument 'covariance_type': 1
+failed: no footprint provided: 1
+failed: Unexpected warning: The probability range is outside [0, 1] given the tolerance `prob_tol`. Consider decreasing `beta` and/or decreasing `tol`.: 1
+failed: nrows and ncols must be positive integers.: 1
+failed: Argument 'dt_str' has incorrect type (expected str, got float): 1
+failed: 'Timestamp' object has no attribute 'asfreq': 1
+failed: Input is an object-dtype array, which is not a valid boolean indexer.: 1
+failed: cannot import name 'TypeGuard' from 'typing' (/home/zhuqiming2022/miniconda3/envs/domaineval/lib/python3.9/typing.py): 1
+failed: name 'pd' is not defined: 1
+failed: Unrecognized compression type: ac5ffb40-e153-437c-b2e2-468a9caba3ed.csv
+Valid compression types are ['infer', None, 'bz2', 'gzip', 'tar', 'xz', 'zip', 'zstd']: 1
+failed: import_optional_dependency() got an unexpected keyword argument 'raise_on_missing': 1
+failed: import_optional_dependency() got an unexpected keyword argument 'version': 1
+failed: DID NOT RAISE <class 'TypeError'>: 1
+failed: only integer scalar arrays can be converted to a scalar index: 1
+failed: type object 'FastText' has no attribute 'load_facebook_model': 1
+failed: 'str' object has no attribute 'module_name': 1
+failed: No module named 'obspy.exceptions': 1
+failed: argument of type 'float' is not iterable: 1
+failed: train() takes from 1 to 3 positional arguments but 5 were given: 1
+failed: int too big to convert: 1
+failed: : 1
+failed: cdata 'X509_NAME *' points to an opaque type: cannot read fields: 1
+failed: '_io.StringIO' object has no attribute 'buffer': 1
+failed: e (136407) and phi_n (3267400632) are not relatively prime (divider=3): 1
+failed: negative shift count: 1
+failed: Invalid hash function: SHA-1: 1
+failed: unsupported operand type(s) for *: 'NoneType' and 'int': 1
+failed: Matrix must be square.: 1
+failed: 'L' format requires 0 <= number <= 4294967295: 1
+failed: 'tuple' object has no attribute 'insert': 1
+failed: int too large to convert to float: 1
+failed: 'bytes' object has no attribute 'digest_size': 1
+failed: DID NOT WARN. No warnings of type (<class 'DeprecationWarning'>,) were emitted.
+ Emitted warnings: [].: 1
+failed: At least two integers are required to compute GCD.: 1
+failed: Input must be a string or byte string.: 1
+failed: encode() missing 1 required positional argument: 'marker': 1
+failed: Value requires more bits than specified.: 1
+failed: invalid syntax (<string>, line 37): 1
+failed: module 'matplotlib.cm' has no attribute 'Colormap': 1
+failed: an integer is required (got type NoneType): 1
+failed: unsupported operand type(s) for -: 'list' and 'list': 1
+failed: 'Legend' object has no attribute 'get_legend_handles_labels': 1
+failed: Palette 'Reds' is not recognized.: 1
+failed: not enough arguments: expected 19, got 6: 1
+failed: not enough arguments: expected 18, got 9: 1
+failed: No module named 'webcolors': 1
+failed: Invalid IPv6 URL: 1
+failed: bad character range \\-/ at position 13: 1
+failed: DID NOT WARN. No warnings of type (<class 'AltairDeprecationWarning'>,) were emitted.
+ Emitted warnings: [].: 1
+failed: Cannot interpret 'datetime64[ns, UTC]' as a data type: 1
+failed: '_test_' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`): 1
+failed: count_method() takes 0 positional arguments but 1 was given: 1
+failed: module 'plotly.io' has no attribute '_default_renderer': 1
+failed: string indices must be integers: 1
+failed: '"test1"': 1
+failed: module 'sqlalchemy.testing.config' has no attribute '_default': 1
+failed: normalize() argument 2 must be str, not bytes: 1
+failed: 'NoneType' object has no attribute 'lower': 1
+failed: 'NoneType' object has no attribute 'endswith': 1
+failed: Invalid NFS URL. It must start with 'nfs:' or 'nfs://'.: 1
+failed: module 'signal' has no attribute 'SIGBREAK': 1
+failed: No module named 'turbojpeg': 1
+failed: Color temperature must be between 1000 and 40000 Kelvin.: 1
+failed: bad escape \w at position 1: 1
+failed: Hex string must be 6 characters long.: 1
+failed: Could not find 'Mem' line in free command output.: 1
+failed: Could not find 'Swap' line in the output: 1
+failed: '<' not supported between instances of 'NoneType' and 'tuple': 1
+failed: Unexpected sysctl output format: 1
+failed: Statistic 'total memory' not found in vmstat output.: 1

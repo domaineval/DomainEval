@@ -29,7 +29,7 @@ statsmodels==0.14.0
 lxml==4.9.3 
 psutil==5.9.5 
 Django==4.2.7
-selenium==4.15.
+selenium==4.15.0
 Pillow==10.3.0 
 beautifulsoup4==4.8.2 
 datetime==5.5 
@@ -106,3 +106,13 @@ colorama==0.4.4
 aadict==0.2.3
 asset==0.6.13
 globre==0.1.5
+gmpy2==2.1.2
+boto3==1.34.144
+bottleneck==1.3.7
+jsonschema==3.2.0
+bcrypt==4.1.3
+numexpr==2.8.7
+torch==2.3.0
+xarray==2023.6.0
+setuptools==69.5.1
+google-api-python-client==2.137.0
