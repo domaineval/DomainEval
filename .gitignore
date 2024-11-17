@@ -11,3 +11,4 @@ nohup*
 .ipython*
 /result_*.txt
 /log*
+/setup/procps-3.3.17

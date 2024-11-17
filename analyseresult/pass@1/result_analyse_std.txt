@@ -1,6 +1,6 @@
 Result Directory: executeresult/domaineval_20240711/std/pass_1
 Model: std
-Time:  2024-10-15 11:19:16
+Time:  2024-11-17 17:48:07
 
 Analyse topic: Basic
 Basic/chinese-calendar pass@1 = 9 / 9 = 100.00%
@@ -74,7 +74,7 @@ Cryptography pass@1 = 100 / 100 = 100.00%
 Analyse topic: Visualization
 Visualization/seaborn pass@1 = 46 / 46 = 100.00%
 Visualization/rich pass@1 = 8 / 8 = 100.00%
-Visualization/vispy pass@1 = 24 / 24 = 100.00%
+Visualization/vispy pass@1 = 23 / 24 = 95.83%
 Visualization/pygwalker pass@1 = 3 / 3 = 100.00%
 Visualization/datashader pass@1 = 17 / 17 = 100.00%
 Visualization/plotnine pass@1 = 5 / 5 = 100.00%
@@ -90,7 +90,7 @@ Visualization/matplotlib pass@1 = 7 / 7 = 100.00%
 Visualization/bokeh pass@1 = 9 / 9 = 100.00%
 Visualization/plotly.py pass@1 = 7 / 7 = 100.00%
 Visualization/redash pass@1 = 11 / 11 = 100.00%
-Visualization pass@1 = 186 / 186 = 100.00%
+Visualization pass@1 = 185 / 186 = 99.46%
 
 Analyse topic: System
 System/openpyxl pass@1 = 5 / 5 = 100.00%
@@ -107,19 +107,20 @@ System/billiard pass@1 = 2 / 2 = 100.00%
 System/core pass@1 = 36 / 36 = 100.00%
 System/thefuck pass@1 = 2 / 2 = 100.00%
 System/glances pass@1 = 2 / 2 = 100.00%
-System/psutil pass@1 = 13 / 13 = 100.00%
+System/psutil pass@1 = 10 / 13 = 76.92%
 System/mpire pass@1 = 5 / 5 = 100.00%
-System pass@1 = 100 / 100 = 100.00%
+System pass@1 = 97 / 100 = 97.00%
 
 Basic pass@1 = 107 / 107 = 100.00%
 Network pass@1 = 256 / 256 = 100.00%
 Computation pass@1 = 1704 / 1705 = 99.94%
 Cryptography pass@1 = 100 / 100 = 100.00%
-Visualization pass@1 = 186 / 186 = 100.00%
-System pass@1 = 100 / 100 = 100.00%
-Total pass@1 = 2453 / 2454 = 99.96%
-Average pass@1 = 99.99%
-100.00	100.00	99.94	100.00	100.00	100.00	99.96	99.99	
+Visualization pass@1 = 185 / 186 = 99.46%
+System pass@1 = 97 / 100 = 97.00%
+Total pass@1 = 2449 / 2454 = 99.80%
+Average pass@1 = 99.40%
+100.00	100.00	99.94	100.00	99.46	97.00	99.80	99.40	
 
-passed: 2453
-timed out: 1
+passed: 2449
+failed: free version too recent: 3
+timed out: 2
