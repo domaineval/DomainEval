@@ -116,3 +116,4 @@ torch==2.3.0
 xarray==2023.6.0
 setuptools==69.5.1
 google-api-python-client==2.137.0
+PyQt5==5.15.11
