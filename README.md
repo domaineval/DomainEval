@@ -100,7 +100,7 @@ python resultanalyse.py \
 ```
 
 Tips: 
-If you want to directly use dataset `domaineval_20240711` to evaluate LLMs, you can first set `model_name="std"`, `k_pass=1`, `version="20240711"`, and then run the commands in `Evaluation` section. If the environment is installed correctly, the accuracy of `std` should be close to or equal to 100%, and the only reason for test failure should be `timed out`.
+If you want to directly use dataset `domaineval_20240711` to evaluate LLMs, you can first set `model_name="std"`, `k_pass=1`, `version="20240711"`, and then run the commands in `Evaluation` section. If the environment is installed correctly, the accuracy of `std` should be close to or equal to 100%, and the only reason for test failure should be `timed out`. Alternatively, you can try building the evaluation environment using our `setup/Dockerfile`, but there are three data points that may not execute properly due to system issues.
 
 ## Submission
 
