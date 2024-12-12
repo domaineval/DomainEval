@@ -137,4 +137,4 @@ The next step is to submit a pull request for the project:
 Once your pull request is accepted, we will update the [Leaderboard](https://domaineval.github.io/leaderboard.html) with your results.
 
 Tips: 
-You can also try [Codabench](https://benchmark.icip.org.cn/competitions/46), which we provide, to evaluate model inference results. Currently, we only support calculating the pass@1 results for a single model with a sampling count of N=1.
+You can also try [Codabench](https://benchmark.icip.org.cn/competitions/46), which we provide, to evaluate model inference results. Currently, we only support calculating the pass@1 results for a single model with a sampling count of N=1. Please do not submit results from multiple models simultaneously.
