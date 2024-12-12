@@ -3,7 +3,6 @@ tmp*
 __pycache__
 third_party
 nohup*
-.*
 .cache*
 .ipynb*
 .python*
