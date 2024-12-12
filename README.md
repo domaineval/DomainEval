@@ -1,4 +1,19 @@
-# DomainEval
+<p align="center">
+<h1 align="center">DOMAINEVAL: An Auto-Constructed Benchmark for
+
+ Multi-Domain Code Generation</h1>
+
+<p align="center">
+    <a href="https://domaineval.github.io/leaderboard.html"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆-Leaderboard-blue"></a>
+    <a href="https://arxiv.org/pdf/2408.13204"><img alt="Paper" src="https://img.shields.io/badge/📄-Paper-orange"></a>
+    <a href="https://benchmark.icip.org.cn/competitions/46"><img src="https://img.shields.io/badge/Submit-Codabench-blueviolet"></a>
+</p>
+
+## Benchmark Description
+
+DOMAINEVAL is an auto-constructed benchmark for multi-domain code generation that consists of 2k+ subjects (i.e., description, reference code and tests) covering six domains (i.e., Computation, Basic, Network, Cryptography, Visualization, System).
+
+![](imgs/pipeline.png)
 
 ## Environment Setup
 ```bash
